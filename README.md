@@ -21,4 +21,4 @@ now run the code by typing in your terminal:
 
     node BinanceAlgoTrading.js
 
-It wouldn't do much for now (only gather data about coins, but hopefully this bot will be completed soon when I have more time to work on it, for discussing profitable technical analysis that the bot may use to conduct trades please open an issue, every suggestion is welcome.
+It wouldn't do much for now, only gather data about coins, but hopefully this bot will be completed soon when I have more time to work on it, for discussing profitable technical analysis that the bot may use to conduct trades please open an issue, every suggestion is welcome.
